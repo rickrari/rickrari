@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a Grad student focused on urban policy. I'm currently working on learning how to use Python to analyze text.
 <!--
 **rickrari/rickrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
